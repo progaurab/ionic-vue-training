@@ -1,0 +1,7 @@
+{
+  "name": "ex01-ionicVueCamera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
